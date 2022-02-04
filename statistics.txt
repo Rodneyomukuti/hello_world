@@ -1,0 +1,5 @@
+# Types of statistics
+There are two main types of statistics commonly used by scientists
+
+1. Descriptive statistics
+2. Inferential statistics
