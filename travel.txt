@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Travelling is my hobby. I travel from place to place
+=======
+Here are some of the travelling ideas
+>>>>>>> dea4dba3e5c1542c8c9334bb8d90c961da18c8b6
