@@ -6,3 +6,6 @@ Let us now have a look at what this means.
 There are two main branches of statistics that are mailny used and explored by scientists
 1. Descriptive statistics
 2. Inferential statistics
+
+*This one ends here. I will be back shortly with more amazing information about statistics. See you:smiley:*
+
